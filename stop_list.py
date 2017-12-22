@@ -1,3 +1,3 @@
-STOP_WORDS = [
+STOP_LIST = [
 
 ]
